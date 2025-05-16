@@ -19,7 +19,6 @@
   
   
  }
-console.log(isAnagram("Tarun", "nura"));
 module.exports = isAnagram;
 
 
